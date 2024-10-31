@@ -1,0 +1,3 @@
+[console_scripts]
+flake8_junit = junit_conversor.__main__:main
+
